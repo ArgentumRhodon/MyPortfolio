@@ -11,7 +11,7 @@
 <div class="flex justify-center gap-8">
 	<ProjectCard
 		name="Bat Bots"
-		href="/projects/games/bat-bots"
+		href="/projects/project-view/bat-bots"
 		src="/cardImages/bat-bots.png"
 		gameTags={['Arcade', 'Retro Shooter', 'Couch Co-op']}
 		workTags={['Unity C#', 'Art', 'Web Dev', 'Marketing']}

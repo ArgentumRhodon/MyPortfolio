@@ -28,8 +28,9 @@
 		<a href="/" class="btn p-0">
 			<Avatar
 				width="w-12"
-				src="/lucas_home.png"
+				src="/favicon.png"
 				border="border-2 border-surface-300-600-token hover:!border-primary-500"
+				rounded="rounded-token"
 			/>
 		</a>
 	</svelte:fragment>
