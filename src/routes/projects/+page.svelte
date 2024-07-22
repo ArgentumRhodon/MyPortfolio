@@ -2,6 +2,10 @@
 	import ProjectCard from '$lib/components/ProjectCard.svelte';
 </script>
 
+<svelte:head>
+	<title>Lucas C. | Projects</title>
+</svelte:head>
+
 <h1 class="text-center text-6xl h1 font-bold mb-12">My Work</h1>
 
 <div class="flex justify-center gap-8">

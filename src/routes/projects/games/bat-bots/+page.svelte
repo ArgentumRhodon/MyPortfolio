@@ -7,6 +7,10 @@
 	const workTags = ['Unity C#', 'Art', 'Web Dev', 'Marketing'];
 </script>
 
+<svelte:head>
+	<title>Lucas C. | Bat Bots</title>
+</svelte:head>
+
 <div class="mb-12">
 	<h1 class="text-center text-6xl h1 font-bold mb-4">Bat Bots</h1>
 	<ul class="flex flex-wrap gap-2 p-0 justify-center m-0">
