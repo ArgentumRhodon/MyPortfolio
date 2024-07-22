@@ -1,8 +1,5 @@
 <script lang="ts">
 	import ProjectCard from '$lib/components/ProjectCard.svelte';
-	import type { PageData } from './$types';
-
-	export let data: PageData;
 </script>
 
 <h1 class="text-center text-6xl h1 font-bold mb-12">My Work</h1>
