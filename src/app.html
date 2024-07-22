@@ -9,8 +9,13 @@
 	</head>
 	<body data-sveltekit-preload-data="hover" data-theme="rocket">
 		<script>
-				const themes = ["hamlindigo", "modern", 'crimson', 'rocket', "skeleton", "seafoam", "wintry", "sahara", "gold-nouveau"];
-			document.body.setAttribute("data-theme", themes[Math.floor(Math.random() * themes.length)]);
+			const themes = ["hamlindigo", "modern", 'crimson', 'rocket', "skeleton", "seafoam", "wintry", "sahara", "gold-nouveau"];
+			let randomTheme = localStorage.getItem("theme");
+			while(randomTheme === localStorage.getItem("theme")){
+				randomTheme = themes[Math.floor(Math.random() * themes.length)];
+			}
+			document.body.setAttribute("data-theme", randomTheme);
+			localStorage.setItem("theme", randomTheme);
 		</script>
 		<div style="display: contents">%sveltekit.body%</div>
 	</body>
