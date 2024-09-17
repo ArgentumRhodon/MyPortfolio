@@ -16,4 +16,11 @@
 		gameTags={['Arcade', 'Retro Shooter', 'Couch Co-op']}
 		workTags={['Unity C#', 'Art', 'Web Dev', 'Marketing']}
 	/>
+	<ProjectCard
+		name="ThenToMeet"
+		href="/projects/project-view/then-to-meet"
+		src="/cardImages/then-to-meet.png"
+		gameTags={['Time Management', 'When2meet Tool']}
+		workTags={['Web Dev', 'Svelte', 'TypeScript', 'Full Stack']}
+	/>
 </div>
