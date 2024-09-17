@@ -8,7 +8,7 @@
 
 <h1 class="text-center text-6xl h1 font-bold mb-12">My Work</h1>
 
-<div class="flex justify-center gap-8">
+<div class="grid md:grid-cols-2 place-items-center justify-center gap-8">
 	<ProjectCard
 		name="Bat Bots"
 		href="/projects/project-view/bat-bots"
