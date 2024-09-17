@@ -43,9 +43,9 @@
 	</p>
 </div>
 <p>
-	For the summer of 2024, I am working full-time as a founding member of indie studio Yesteryear
-	Games on <i>Bat Bots</i>, our love-letter to the classics targeted at older generations to play
-	with their young relatives. Working on Bat Bots professionally has revealed the great difference
+	For the summer of 2024, I worked full-time as a founding member of indie studio Yesteryear Games
+	on <i>Bat Bots</i>, our love-letter to the classics targeted at older generations to play with
+	their young relatives. Working on Bat Bots professionally has revealed the great difference
 	between industry and academic-level work.
 </p>
 <p>
@@ -56,8 +56,8 @@
 	which was aided by the frequent feedback of my teammates.
 </p>
 <p>
-	As our production winds down and less technical and artistic work is needed, I have also performed
-	as Yesteryear Games' marketing lead. Bat Bots releases on Steam Q3 2024!
+	As our production wound down and less technical and artistic work is needed, I also performed as
+	Yesteryear Games' marketing lead.
 </p>
 
 <a
