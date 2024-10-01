@@ -4,7 +4,7 @@
 	export let data: PageData;
 
 	const gameTags = ['Arcade', 'Retro Shooter', 'Couch Co-op'];
-	const workTags = ['Unity C#', 'Art', 'Web Dev', 'Marketing'];
+	const workTags = ['Web Dev', 'Unity C#', 'Art'];
 </script>
 
 <svelte:head>
@@ -48,17 +48,20 @@
 	their young relatives. Working on Bat Bots professionally has revealed the great difference
 	between industry and academic-level work.
 </p>
-<p>
-	My contributions to this game are widespread: from drafting the initial systems architecture to
-	gameplay programming to producing background art and particle effects. I also took on the solo
-	development of <a href="https://www.batbotsgame.com" target="_blank">the website</a> and
-	<a href="https://store.steampowered.com/app/3099010/Bat_Bots/" target="_blank">Steam page</a>,
-	which was aided by the frequent feedback of my teammates.
-</p>
-<p>
-	As our production wound down and less technical and artistic work is needed, I also performed as
-	Yesteryear Games' marketing lead.
-</p>
+<p>My primary contributions:</p>
+<ul>
+	<li>
+		Used JavaScript, HTML, TailwindCSS, and Vercel to build and deploy
+		<a href="https://www.batbotsgame.com">the website</a> for Bat Bots.
+	</li>
+	<li>
+		Built the Steam page for Bat Bots. Used my art capabilities to make assets for the Steam page
+		while our primary artist focused on the game itself.
+	</li>
+	<li>
+		Created visual assets like background and particle effects for Bat Bots' customization systems.
+	</li>
+</ul>
 
 <a
 	href="https://linktr.ee/batbotsofficial"

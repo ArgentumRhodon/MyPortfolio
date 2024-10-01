@@ -13,7 +13,7 @@
 			I am a game and front-end web developer currently studying for my Master of Science in Game
 			Design and Development at Rochester Institute of Technology.
 		</p>
-		<a href="./" class="btn variant-filled-primary pointer-events-none opacity-25">
+		<a href="/resume.pdf" download="corey_l_resume.pdf" class="btn variant-filled-primary">
 			<i class="fa-solid fa-download"></i>
 			<span>Download Resume</span>
 		</a>

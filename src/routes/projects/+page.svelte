@@ -14,7 +14,7 @@
 		href="/projects/project-view/bat-bots"
 		src="/cardImages/bat-bots.png"
 		gameTags={['Arcade', 'Retro Shooter', 'Couch Co-op']}
-		workTags={['Unity C#', 'Art', 'Web Dev', 'Marketing']}
+		workTags={['Web Dev', 'Unity C#', 'Art']}
 	/>
 	<ProjectCard
 		name="ThenToMeet"
