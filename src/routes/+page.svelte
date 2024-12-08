@@ -18,7 +18,7 @@
 			<span>Download Resume</span>
 		</a>
 	</div>
-	<!-- <Avatar class="w-32 md:min-w-[400px] shadow-2xl" src="/lucas_home.png" rounded="rounded-token" /> -->
+	<Avatar class="w-32 md:min-w-[400px] shadow-2xl" src="/lucas_home.png" rounded="rounded-token" />
 </header>
 
 <main>
@@ -57,17 +57,17 @@
 
 	<section class="mx-auto md:text-xl space-y-8">
 		<header class="flex flex-col lg:flex-row items-center justify-between gap-8">
-			<!-- <Avatar
+			<Avatar
 				class="w-auto max-w-[400px] shadow-2xl"
 				src="/lucas_about.png"
 				rounded="rounded-token"
-			/> -->
+			/>
 			<div class="space-y-8">
 				<p class="opacity-75">
 					At RIT, I've worked on software and design projects from quick, iterative prototyping to
 					full-scale production and documentation. My experience has primarily been in small
 					cross-functional teams following a scrum-like process while prioritizing agile
-					methodologies.
+					principles.
 				</p>
 				<p class="opacity-75">
 					Another passion of mine is front-end web development. In my exploration of web
