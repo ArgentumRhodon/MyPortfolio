@@ -30,7 +30,7 @@
 		<img src="/screenshots/then-to-meet.png" alt="" />
 	</figure>
 	<p class="m-0 p-4 text-lg">
-		Tired of peeking through large When2meet events to find meeting times for sub-groups? No? I was,
+		Tired of peeking through large When2meet events to find meeting times for subteams? No? I was,
 		so I made ThenToMeet!
 	</p>
 </div>
@@ -44,6 +44,12 @@
 	Why not build an improved When2meet clone you ask? It seemed unnecessary; why build something with
 	profile authentication and database queries when I can just parse a When2meet page with RegEx to
 	populate my app?
+</p>
+<p>
+	I was first inspired to create ThenToMeet while trying to schedule subteam meetings for
+	<a href="./echoes"><i>echoes</i></a>, a credit-bearing student-led, student-run project at
+	Rochester Institute of Technology exploring how developing and playing games can cultivate shared
+	understanding and foster meaningful connections.
 </p>
 <a href="https://www.thentomeet.com" class="btn variant-filled-primary w-full" target="_blank">
 	<span><i class="fa-solid fa-link"></i></span>
