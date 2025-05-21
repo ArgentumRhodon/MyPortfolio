@@ -44,6 +44,10 @@
 <p>My primary contributions:</p>
 <ul>
 	<li>
+		Played a hand in the initial approach, ideation, and planning for parts of this project/course
+		in the spring of 2024.
+	</li>
+	<li>
 		Mentored two to three peers in the use of Svelte, JavaScript, and TailwindCSS to develop
 		<a href="https://www.echoes-vip.org/">the <i>echoes</i> website.</a>
 	</li>
