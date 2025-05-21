@@ -8,7 +8,7 @@
 
 <h1 class="text-center text-6xl h1 font-bold mb-12">My Work</h1>
 
-<div class="grid md:grid-cols-2 place-items-center justify-center gap-8">
+<div class="grid md:grid-cols-3 place-items-center justify-center gap-8">
 	<ProjectCard
 		name="Bat Bots"
 		href="/projects/project-view/bat-bots"
@@ -22,5 +22,12 @@
 		src="/cardImages/then-to-meet.png"
 		gameTags={['Time Management', 'When2meet Tool']}
 		workTags={['Web Dev', 'Svelte', 'TypeScript', 'Full Stack']}
+	/>
+	<ProjectCard
+		name="echoes"
+		href="/projects/project-view/echoes"
+		src="/cardImages/echoes.png"
+		gameTags={['Community', 'Reflection', 'Connection']}
+		workTags={['Web Dev', 'Svelte', 'JavaScript', 'VIP']}
 	/>
 </div>
