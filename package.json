@@ -33,6 +33,6 @@
   },
   "type": "module",
   "dependencies": {
-    "node": "^22.19.0"
+    "node": "^20.19.5"
   }
 }
