@@ -117,6 +117,6 @@
 		</a>
 	</nav>
 	<span class="text-sm opacity-75 text-primary-900-50-token">
-		© Copyright 2024. All rights reserved.
+		© Copyright 2025. All rights reserved.
 	</span>
 </footer>

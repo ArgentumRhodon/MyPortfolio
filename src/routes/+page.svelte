@@ -57,21 +57,32 @@
 
 	<section class="mx-auto md:text-xl space-y-8">
 		<header class="flex flex-col lg:flex-row items-center justify-between gap-8">
-			<div class="space-y-8">
-				<p class="opacity-75">
-					At RIT, I've worked on software and design projects from quick, iterative prototyping to
-					full-scale production and documentation. My experience has primarily been in small
-					cross-functional teams following a scrum-like process while prioritizing agile principles.
+			<div class="space-y-8 *:opacity-75">
+                <p>
+                    I received my Master of Science in Game Design and Development from Rochester Institute of
+                    Technology in May 2025. At RIT, I specialized in gameplay programming, web development,
+                    and pixel art, working on many projects ranging from small prototypes to polished vertical
+                    slices.
+                </p>
+                
+                <p>
+                    My experience has primarily been in small cross-functional teams following scrum-like
+                    processes while prioritizing agile principles. One of those many teams evolved into what is
+                    now Yesteryear Games, an indie game studio I co-founded with a few of my classmates. In
+                    the summer of 2024, we released our first game, <a href="/projects/project-view/bat-bots" class="italic underline">Bat Bots</a>,
+                    for free on Steam.
+                </p>
+
+				<p>
+					While my degree is in games, I have a strong passion for front-end web development. I have
+                    experience with frameworks like Svelte and React, which I typically use alongside TypeScript
+                    for scripting and Tailwind for styling. I also have some experience with backend technologies using
+                    Node.js and C#, including MongoDB, Redis, and Docker.
 				</p>
-				<p class="opacity-75">
-					Another passion of mine is front-end web development. In my exploration of web
-					technologies, I've ended up primarily using Svelte and Tailwind because of the flexibility
-					and control they offer.
-				</p>
-				<p class="opacity-75">
-					In a place where I'm warmed by the sun, cooled by the shade, and refreshed by the breeze,
-					with a painted sky above and the mountains of home surrounding, I find my greatest peace.
-				</p>
+
+                <p>
+                    To learn more about the things I've worked on, check out my projects page and/or download my resume.
+                </p>
 			</div>
 		</header>
 	</section>
