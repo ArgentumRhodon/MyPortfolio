@@ -27,7 +27,7 @@
 
 <div class="card variant-filled-primary overflow-hidden">
 	<figure class="w-full aspect-video m-0">
-		<img src="/screenshots/then-to-meet.png" alt="" />
+		<img src="/screenshots/then-to-meet.webp" alt="" />
 	</figure>
 	<p class="m-0 p-4 text-lg">
 		Tired of peeking through large When2meet events to find meeting times for subteams? No? I was,

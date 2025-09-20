@@ -10,18 +10,25 @@
 
 <div class="grid md:grid-cols-3 place-items-center justify-center gap-8">
 	<ProjectCard
-		name="Bat Bots"
-		href="/projects/project-view/bat-bots"
-		src="/cardImages/bat-bots.png"
-		gameTags={['Arcade', 'Retro Shooter', 'Couch Co-op']}
-		workTags={['Web Dev', 'Unity C#', 'Art']}
+		name="UE Horde"
+		href="/projects/project-view/horde"
+		src="/cardImages/horde.webp"
+		gameTags={['Unreal Engine', 'CI/CD', 'DevOps']}
+		workTags={['Web Dev', 'React', 'TypeScript', 'ASP.NET Core', 'C#']}
 	/>
-	<ProjectCard
+    <ProjectCard
 		name="ThenToMeet"
 		href="/projects/project-view/then-to-meet"
 		src="/cardImages/then-to-meet.png"
 		gameTags={['Time Management', 'When2meet Tool']}
 		workTags={['Web Dev', 'Svelte', 'TypeScript', 'Full Stack']}
+	/>
+    <ProjectCard
+		name="Bat Bots"
+		href="/projects/project-view/bat-bots"
+		src="/cardImages/bat-bots.png"
+		gameTags={['Arcade', 'Retro Shooter', 'Couch Co-op']}
+		workTags={['Web Dev', 'Unity C#', 'Art']}
 	/>
 	<ProjectCard
 		name="echoes"
@@ -30,4 +37,5 @@
 		gameTags={['Community', 'Reflection', 'Connection']}
 		workTags={['Web Dev', 'Svelte', 'JavaScript', 'VIP']}
 	/>
+    
 </div>
