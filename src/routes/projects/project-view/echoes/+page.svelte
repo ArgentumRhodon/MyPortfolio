@@ -27,7 +27,7 @@
 
 <div class="card variant-filled-primary overflow-hidden">
 	<figure class="w-full aspect-video m-0">
-		<img src="/screenshots/echoes.png" alt="" />
+		<img src="/screenshots/echoes.webp" alt="" />
 	</figure>
 	<p class="m-0 p-4 text-lg">
 		<i>echoes</i> is a credit-bearing student-led, student-run project at Rochester Institute of Technology
