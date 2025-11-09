@@ -37,5 +37,11 @@
 		gameTags={['Community', 'Reflection', 'Connection']}
 		workTags={['Web Dev', 'Svelte', 'JavaScript', 'VIP']}
 	/>
-    
+    <ProjectCard
+		name="Grim's Coffin"
+		href="/projects/project-view/grims-coffin"
+		src="/cardImages/grims-coffin.webp"
+		gameTags={["Metroidvania", "Themes of Grief"]}
+		workTags={["Unity C#", "Game Dev", "Pixel Art", "Tech Art"]}
+	/>
 </div>
